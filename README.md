@@ -1,13 +1,22 @@
 # Python Data Analysis
 
-This project demonstrates basic data analysis using Python.
+This repository demonstrates basic data analysis and visualization using Python.
+It is designed as a clean, beginner-friendly example of working with structured data.
 
-## Features
-- Data analysis with Pandas
-- Simple data visualization using Matplotlib
-- Clean and beginner-friendly code
+## Tech Stack
+- Python
+- Pandas
+- Matplotlib
 
-## How to run
+## What this project does
+- Loads structured data into a Pandas DataFrame
+- Performs basic aggregation and calculations
+- Visualizes data using bar charts
+
+## Files
+- `sales_analysis.py` – main analysis script
+
+## How to run locally
 ```bash
 pip install pandas matplotlib
 python sales_analysis.py
